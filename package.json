@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rebeccaacero1/js-weather-app/issues"
   },
-  "homepage": "https://github.com/rebeccaacero1/js-weather-app#readme"
+  "homepage": "https://github.com/rebeccaacero1/js-weather-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
